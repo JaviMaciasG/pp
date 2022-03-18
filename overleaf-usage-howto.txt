@@ -2,6 +2,8 @@
 HOWTO: Template usage in overleaf
 ---------------------------------------------------------------------------
 
+THIS IS JUST A TEST
+
 If you want to work with the template in overleaf, it's pretty easy.
 
 Here you are the main steps:
